@@ -1,4 +1,4 @@
-# Kannada-Hand-written-digit-recognizer
+# KannadNet: Detecting Numbers Written In Kannada Numerical System
 
 
 * Detecting Numbers Written In Kannada Numerical System using a  ResNet-34, a **Deep Residual Learning Neural Network for Image Recognition.**
