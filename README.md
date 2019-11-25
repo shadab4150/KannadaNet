@@ -14,4 +14,4 @@
 * To see the project jupyter Notebook click [**Here**](https://shadab4150.github.io/Kannada-Hand-written-digit-recognizer/Kannada_digit_recognizer_randomForest_resnet34.html)
 
 ## Kannada Numbers Covnverted to image from pixel data using matrix. 28x28
-![kd](https://ibb.co/4PntbFK.jpg)
+![kd](https://i.ibb.co/yWcPzNd/number123.png)
