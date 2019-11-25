@@ -15,3 +15,13 @@
 
 ## Kannada Numbers Covnverted to image from pixel data using matrix. 28x28
 ![kd](https://i.ibb.co/yWcPzNd/number123.png)
+
+## Top Losses after the KannadNet was trained on a 34 layer conv Neural network.
+![kd](https://i.ibb.co/8PMQ2RH/loss.png)
+
+## Confusion Matrix
+![kd](https://i.ibb.co/X4YtHmz/confu.png)
+
+## Actual and Predicted images:
+![kd](https://i.ibb.co/BBtqy5Q/pred2.png)
+![kd](https://i.ibb.co/YcWRr89/pred1.png)
