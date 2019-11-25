@@ -5,7 +5,7 @@
 
 * The **DataSet** was in a pixel information **csv** file containing an image of **28x28 pixel**.
 
-* First, I tried to train it using **RandomForest Classfier** which gave an accuracy score of **97.98 %.**
+* First, I tried to train it using **RandomForest Classifier** which gave an accuracy score of **97.98 %.**
 
 * Then I switched to **ResNet34.**
 
