@@ -10,4 +10,4 @@
 
 * I have achieved an accuracy of **99.4 %.**
 
-* To see the project jupyter Notebook click Here. [**Link**](https://shadab4150.github.io/Kannada-Hand-written-digit-recognizer/Kannada_digit_recognizer_randomForest_resnet34.html)
+* To see the project jupyter Notebook click [**Here**](https://shadab4150.github.io/Kannada-Hand-written-digit-recognizer/Kannada_digit_recognizer_randomForest_resnet34.html)
